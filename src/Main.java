@@ -16,5 +16,6 @@ public class Main {
             System.out.println();
         }
         System.out.println("summ: " + summ);
+        System.out.println("The end");
     }
 }
